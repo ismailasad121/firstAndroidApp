@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="pakistanVideo" type="id" />
+    <item name="book1" type="id" />
+    <item name="book2" type="id" />
+    <item name="share" type="id" />
+    <item name="drawer_layout" type="id" />
+    <item name="pdfBook1" type="id" />
+</resources>

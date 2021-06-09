@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">first</string>
+    <string name="personName" />
+    <string name="Active" />
+    <string name="personAge" />
+    <string name="open" />
+    <string name="close" />
+</resources>
